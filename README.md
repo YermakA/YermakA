@@ -6,19 +6,17 @@
 <a  href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=YermakA&theme=github-dark&hide_border=true&border_radius=12.9&date_format=j%20M%5B%20Y%5D&card_width=540" alt="GitHub Streak" /></a>
 </h1>
 <h1 align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YermakA&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 </h1>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=YermakA&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: black)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=YermakA&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YermakA&show_icons=true" />
 </picture>
